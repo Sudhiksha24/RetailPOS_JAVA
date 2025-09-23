@@ -6,9 +6,9 @@ A Java-based console application that simulates a Retail Point-of-Sale (POS) sys
 
 ##  Developer
 
-*Sri Nithyasri*  
-Department of Electronics and TeleCommunication  
-GitHub: [@srigitaraj](https://github.com/srigitaraj)
+*Sudhiksha V*  
+Department of Electrical And Electronics  
+GitHub: [@srigitaraj](https://github.com/Sudhiksha24)
 
 ---
 
