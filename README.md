@@ -8,7 +8,7 @@ A Java-based console application that simulates a Retail Point-of-Sale (POS) sys
 
 *Sudhiksha V*  
 Department of Electrical And Electronics  
-GitHub: [@srigitaraj](https://github.com/Sudhiksha24)
+GitHub: [@sudhiksha24](https://github.com/Sudhiksha24)
 
 ---
 
@@ -31,15 +31,6 @@ com.kce.pos.model → Domain classes (Product, Supplier, Sale, etc.) com.kce.pos
 
 
 ---
-
-##  How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sudhiksha24/RetailPOS_JAVA.git
-Open the project in Eclipse IDE or any Java IDE.
-
-Navigate to com.kce.pos.main.Main.java and run the file.
 
  Sample Output
 --- Retail POS Menu ---
